@@ -1,0 +1,30 @@
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,100;1,200;1,400&family=Source+Code+Pro:wght@300&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Fira Sans",
+          "fontStyle": "italic",
+          "fontWeight": 100
+        },
+        {
+          "fontFamily": "Fira Sans",
+          "fontStyle": "italic",
+          "fontWeight": 200
+        },
+        {
+          "fontFamily": "Fira Sans",
+          "fontStyle": "italic",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Source Code Pro",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        }
+      ]
+    }
+  }
+]
